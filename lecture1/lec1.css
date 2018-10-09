@@ -1,0 +1,60 @@
+  	div {
+	    font-size: 0;
+	   	/*text-align: center;*/
+	   	padding-top: 100;
+	}
+
+	.top-area { 
+		background-color: red;
+		height: 33.3%;
+	 }
+
+ 	 .middle-area { 
+	 	background-color: white;
+		height: 33.3%;
+ 	 }
+
+
+	 .bottom-area { 
+	 	background-color: blue;
+		height: 33.3%;
+	  }
+
+	.middle { 
+		background-color: #A1B5DC;
+		display: inline-block;
+		width: 33%;
+		height: 100px;
+		text-align: center;
+		/*margin-top: 25%;*/
+	 }
+
+	 img { 
+	 	border-radius: 50%;
+	 	/*position: relative;*/
+	 	/*z-index: 2;*/
+	  }
+
+
+	 .left { 
+	 	background-color: red;
+	 	display: inline-block;
+	 	width: 33.5%;
+	 	height: 100px;
+	 	/*margin-top: 25%;*/
+	  }
+
+	 .right { 
+	 	background-color: black;
+	 	display: inline-block;
+	 	width: 33.5%;
+	 	height: 100px;
+	 	/*margin-top: 25%;*/
+	  }
+
+body { 
+	background-color: #eee;
+ }
+
+
+
