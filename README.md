@@ -1,2 +1,6 @@
-# IntroToGo
-Learning Go language
+# Language Basics
+
+### Languages I'm currently Learning
+---
+* Go 
+* Swift 
